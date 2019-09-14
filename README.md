@@ -1,6 +1,6 @@
 #--------------------------------------
-# PhaCo
-Phase unwrapping errors Correction in SAR interferometry.
+# CorPhU
+CORrection of Phase Unwrapping errors in SAR interferometry.
 
 # Example of a command line to run the algorithm (see unwCorrector.py other input arguments)
 python unwCorrector.py --filesDir IGRAMS --igramName filt_fine.unw --proc isce --proc_iterations 0 --h5file corrector.h5
